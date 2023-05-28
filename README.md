@@ -10,6 +10,10 @@ Peaceful Mind is a site that had been created with the idea in mind of normalisi
  - **Accessibility:** The Navigation Bar was created with accessibility in mind, and it complies with web standards and best practises, including correct labelling, keyboard navigation support, and semantic markup, to make sure it is useful for persons with impairments.
 ![Screenshot of the navigation bar including the logo](assets/images/navigation-bar-screenshot.png)
 
-- **The landing page image:**
+- **The website landing image:**
     * The website landing is including an image with a text overlay that is presenting the organisation main goal and where is all situated. 
     * This section is presenting to the user a first glance of what the supporting groups look like and the special bond people create within the organisation.
+![Screenshot of the website landing](assets/images/web-landing.png)
+
+- **The organisation goals**
+
