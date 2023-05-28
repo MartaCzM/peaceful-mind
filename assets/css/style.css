@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
-    border: 1px;
+    box-sizing: border-box;
 }
 
 body {
@@ -25,7 +23,7 @@ h1,h2 {
 #logo {
     float: left;
     font-size: 200%;
-    margin-left: 20px;
+    box-sizing: border-box;
 }
 
 /* navigation links */
@@ -42,7 +40,7 @@ h1,h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 10px;
+    box-sizing: border-box;
 }
 
 #menu a {
@@ -82,9 +80,7 @@ h1,h2 {
     width: 350px;
     height: 200px;
 
-    padding-top: 50px;
-    padding-left: 10px;
-
+    box-sizing: border-box;
     background-color: rgba(228, 196, 159, .8);
 
     bottom: 20px;
@@ -98,3 +94,23 @@ h1,h2 {
     background: url('../images/community.webp') no-repeat center center;
     width: 100%;
     height: 600px;
+
+
+/* animate effect on loading page*/
+
+animation-name: cover;
+animation-duration: 6s;
+animation-fill-mode: forwards;
+
+}
+
+/* creates the level of efect for cover image*/
+
+@keyframes cover {
+    from {
+        transform: scale(1)
+    }
+    to {
+        transform: scale(1.1)
+    }
+}
