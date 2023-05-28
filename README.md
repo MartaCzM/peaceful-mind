@@ -8,3 +8,4 @@ Peaceful Mind is a site that had been created with the idea in mind of normalisi
 - **Responsive Desing:** The Navigation Bar has a responsive design that allows it to adjust to various screen sizes and deliver a consistent user experience on PCs, tablets, and mobile devices.
 - **Clear Navigation:** Users may locate and access the Home, About us and Sign Up sections of the website easily due to the Navigation Bar's logical and intuitive organisation of the links.
 - **Accessibility:** The Navigation Bar was created with accessibility in mind, and it complies with web standards and best practises, including correct labelling, keyboard navigation support, and semantic markup, to make sure it is useful for persons with impairments.
+![Screenshot of the navigation bar including the logo](assets/images/navigation-bar-screenshot.png)
