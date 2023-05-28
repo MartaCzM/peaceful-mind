@@ -114,3 +114,50 @@ animation-fill-mode: forwards;
         transform: scale(1.1)
     }
 }
+
+/* club essence */
+
+#club-essence {
+    height: 600px;
+}
+
+#join {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 200%;
+}
+
+#left {
+    box-sizing: border-box;
+    float: left;
+    width: 30%;
+    text-align: center;
+   
+
+}
+
+#right {
+    box-sizing: border-box;
+    float: right;
+    width: 30%;
+    text-align: center;
+   
+
+}
+
+#center {
+    margin: 0 auto;
+    width: 30%;
+    text-align:center;
+}
+
+img {
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+}
+
+hr {
+    box-sizing: border-box;
+}
+
