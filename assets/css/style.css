@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 1px;
+}
+
+body {
+    font-family: Lora, sans-serif;
+    font-weight: 400;
+    color: #1f253b;
+}
+
+/* headings and logo*/
+
+h1,h2 {
+    font-family: 'Playfair Display', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #3b51a3;
+}
+
+
+#logo {
+    float: left;
+    font-size: 200%;
+    margin-left: 20px;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo {
+    line-height: 50px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+#menu a {
+    text-transform: none;
+    color: #3b51a3;
+}
+
+#menu a:hover {
+    background-color: powderblue;
+}
+
+.active {
+    background-color: powderblue;
+}
