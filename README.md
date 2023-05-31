@@ -15,7 +15,7 @@ Peaceful Mind is a website that had been created with the idea in mind of normal
     * The website landing is including an image with a text overlay that is presenting the organisation main goal and where is all situated. 
     * This section is presenting to the user a first glance of what the supporting groups look like and the special bond people create within the organisation.
     * This section will also apear on the About page.
-![Screenshot of the website landing](assets/images/webpage-landing.jpeg)
+![Screenshot of the website landing](assets/images/webpage-landing.jpg)
 
 - **The Club Golas Section**
     * The club goals section is design to provide information to the reader related to what is like to be part of our community.
@@ -25,7 +25,7 @@ Peaceful Mind is a website that had been created with the idea in mind of normal
 - **Group Meeting Section**
     * The group meeting section is design to provide to the users information such as where our group meetings will take place, location and time.
     * This section will update monthly, considering that the locations and time could change.
-![Screeenshot of the group meeting section](assets/images/meetings-location.jpeg)
+![Screeenshot of the group meeting section](assets/images/meetings-location.jpg)
 
 - **The Footer**
     * Within the footer user can find direct links to the social media paltforms for the Peaceful Mind. The links will sent the user on a new tab to the related social media platform.

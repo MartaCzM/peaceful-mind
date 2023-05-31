@@ -40,8 +40,7 @@ h1,h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    box-sizing: border-box;
-    padding: 10px;   
+    margin-left: 30px;
 }
 
 #menu a {
@@ -82,7 +81,7 @@ h1,h2 {
     height: 200px;
 
     box-sizing: border-box;
-    background-color: rgba(164, 176, 188, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
 
     top: 20px;
     left: 150px;
@@ -166,14 +165,14 @@ hr {
 }
 
 #group-meetings div {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-image: url('../images/background.jpeg');
     width: 33%;
     height: 200%;
     float:left;
   
     padding: 30px 0 0 20px;
     text-align: left;
-    border: 20px solid powderblue;
+    border: 20px solid white;
     box-sizing: border-box;
 }
 /* about us*/
@@ -250,14 +249,11 @@ footer{
 }
 
 .media-links i {
-    padding: 2%;
-    margin-right: 2%;
+    padding: 2px;
+    margin: 2%;
     font-size: 50px; 
     color:#3b51a3;
-
 }
-
-
 
 /* Media queries*/
 
@@ -300,9 +296,13 @@ footer{
 @media screen and (max-width: 950px){
 
 
-   #cover-image{
-        width: 100%
-    }
+   #menu{
+        clear:left;
+        float:left;
+        margin-left: 30px;
+        margin-bottom:20px;
+        line-height: 20px;
+   }
 
     #cover-text{
         left:0;
@@ -323,15 +323,13 @@ footer{
     }
 }
 
-/* For screen size 600px and down*/
-@media  screen and (max-width:600px) {
+/* For screen size 800px and down*/
+@media  screen and (max-width:800px) {
 
-    #menu {
-        clear:left;
-        float: left;
-    }
-
-    #cover-text {
-        width:50%;
+    #menu{
+        display:inline;
+        float:left;
+        width: 100%;
+        margin-left: 0;
     }
 }
