@@ -2,8 +2,8 @@
 
 ## How it stated
 Peaceful Mind is a website that had been created with the idea in mind of normalising mental health awareness aroun UK, also most of the UK's residents are in need of a community where they can express their thoughts, find answers and have a place where they can look for similar stories. This site will be targeted toward any person looking for a community that can understand them and they should feel free to ask questions and get answers. Peaceful Mind will provide its users with important information such as the places and dates where the Peaceful Mind community will host group meetings and website users can take part in the events. The users can use the website to discover more about the community and subscribe to the weekly newsletter.
-![Screenshot with the deployed website on different screens](assets/images/website-view.jpg)
 
+![Screenshot](assets/images/website-view.jpg)
 
 ## Features
 
